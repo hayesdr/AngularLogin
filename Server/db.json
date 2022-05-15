@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Dale",
+      "email": "dale@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Chris",
+      "email": "chris@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "daryl",
+      "email": "daryl@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "xyzsss",
+      "email": "xyzdsf@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "testuser",
+      "email": "testuser@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "testuser2",
+      "email": "testuse2r@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "newuser",
+      "email": "newuser@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "new2",
+      "email": "new2@gmail.com",
+      "id": 10
+    }
+  ]
+}

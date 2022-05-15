@@ -1,0 +1,43 @@
+body,html{
+    border: 0;
+    height:100%;
+    width:100%;
+    padding:0;
+    margin:0;
+}
+.wrapper{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: lightgray;
+}
+
+button{
+    padding: 15px, 10px;
+    background-color: skyblue;
+    margin-right:5px;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    width:100px;
+    height:26px;
+    cursor: pointer;
+}
+
+button:disabled{
+    background-color: gray;
+    opacity: 0.8;
+    color: white;
+    cursor: not-allowed;
+}
+
+.block{
+    width:320px;
+    background: linear-gradient(270deg, blue, red);
+    display: flex;
+    height: 320px;
+    border-radius: 12px;
+}
